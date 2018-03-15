@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme">
+        <!-- Customize your theme here. -->
+
+    </style>
+
+    <style name="BtnColor">
+        <item name="android:background">@color/colorBtnBg</item>
+        <item name="android:textColor">@color/colorBtnText</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+        
+    </style>
+
+    
+
+</resources>
